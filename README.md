@@ -1,5 +1,4 @@
-# Customer Segmentation
-**Customer Segmentation & Lifetime Value Analysis**
+# Customer Segmentation & Lifetime Value Analysis
 
 Build a complete customer analytics pipeline using an e-commerce dataset (like the Online Retail dataset from UCI). Create RFM analysis, customer segments using clustering algorithms, and predict customer lifetime value. This hits statistical modeling, clustering, and retail analytics directly.
 
